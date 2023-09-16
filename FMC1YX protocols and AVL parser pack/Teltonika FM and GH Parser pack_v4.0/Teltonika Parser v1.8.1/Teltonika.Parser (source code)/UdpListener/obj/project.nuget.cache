@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "oBetLVN1TPKmgT/AinWWRdL4bDXdx2wcqxst2FdLzER/wlFtivotCMbqTWsWpCbP7+pVU1ifV8YN6O0S3RRNlg==",
+  "success": true,
+  "projectFilePath": "d:\\Workspace\\GIT-HISTORY\\EYENIA\\FMC1YX protocols and AVL parser pack\\Teltonika FM and GH Parser pack_v4.0\\Teltonika Parser v1.8.1\\Teltonika.Parser (source code)\\UdpListener\\UdpListener.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\log4net\\2.0.8\\log4net.2.0.8.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.3\\microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net452\\1.0.3\\microsoft.netframework.referenceassemblies.net452.1.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

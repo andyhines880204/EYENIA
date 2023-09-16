@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "kEOpNdwTaYb3QugUlnrEUR2o8xdRtlAFz6j0qMUKVvRh9bTH7D3fQcfawAl/7bk+16Unmv9TN6vc29Po9W/BEA==",
+  "success": true,
+  "projectFilePath": "d:\\Workspace\\GIT-HISTORY\\EYENIA\\FMC1YX protocols and AVL parser pack\\Teltonika FM and GH Parser pack_v4.0\\Teltonika Parser v1.8.1\\Teltonika.Parser (source code)\\Teltonika.Codec\\Teltonika.Codec.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.3\\microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net452\\1.0.3\\microsoft.netframework.referenceassemblies.net452.1.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
